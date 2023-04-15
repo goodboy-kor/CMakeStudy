@@ -1,3 +1,0 @@
-/home/we/ws/seokhwan/CMake_Study/cmake-3.26.3-tutorial-source/Step1/build/CMakeFiles/rebuild_cache.dir
-/home/we/ws/seokhwan/CMake_Study/cmake-3.26.3-tutorial-source/Step1/build/CMakeFiles/edit_cache.dir
-/home/we/ws/seokhwan/CMake_Study/cmake-3.26.3-tutorial-source/Step1/build/CMakeFiles/Tutorial.dir
